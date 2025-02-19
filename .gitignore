@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+lightning_logs/
+
+.vscode/
+.idea/
